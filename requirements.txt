@@ -1,0 +1,5 @@
+flask==1.0.2
+pymongo==3.7.2
+dpath==1.4.0
+cachetools==3.1.0
+python-slugify==3.0.0
